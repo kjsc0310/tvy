@@ -1,3 +1,6 @@
+{
+"spider": "http://118.190.244.195/tvmovie/bd/custom_spider.jar",
+	
 "sites":[
 {"key":"百度资源","name":"百度*资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"天空*资源","name":"天空*资源","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
