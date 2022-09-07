@@ -1,7 +1,7 @@
 	
 
 {
-	"spider": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0906.jar;md5;A3D1C3C59B52B12E83032DDE83DD3738",
+	"spider": "https://kjsc0310.github.io/tvy/XC0906.jar;md5;A3D1C3C59B52B12E83032DDE83DD3738",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
