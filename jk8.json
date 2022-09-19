@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/2915.jar;md5;3D691EE14AFB7DD2AC3C7D70AE22C279",
+"spider":"https://kjsc0310.github.io/tvy/2915.jar;md5;3D691EE14AFB7DD2AC3C7D70AE22C279",
 "sites": [
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
