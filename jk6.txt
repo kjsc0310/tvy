@@ -993,7 +993,6 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 河南卫视,http://39.134.65.141/PLTV/88888888/224/3221226023/1.m3u8
 河南卫视,http://39.134.65.143/PLTV/88888888/224/3221226023/1.m3u8
 河南卫视,http://39.134.65.130/PLTV/88888888/224/3221226023/1.m3u8
-河南卫视,http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/henanstv/1.m3u8;{User-Agent@0151}
 河南卫视,http://117.148.129.9/PLTV/88888888/224/3221231514/index.m3u8
 河南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225767/1.m3u8
 陕西卫视,http://39.134.63.11:6610/PLTV/88888888/224/3221225625/index.m3u8?i
