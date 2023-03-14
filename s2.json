@@ -1,12 +1,5 @@
-{"sites":[{"key":"csp_77","name":"TV影视","type":3,"api":"csp_Kunyu77","searchable":0,"quickSearch":0,"filterable":1},{"key":"csp_77","name":"七七🏀","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_xpath_网络搜集库huaya","name":"虎牙🎤","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/huya.js"},{"key":"csp_xpath_网络搜集库qiumi","name":"球迷🏀","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/516-qiumi.js"},{"key":"csp_xpath_A33","name":"MTV🎸","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/mtv"},{"key":"csp_LiteApple","name":"苹果🐞","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_Kuaikan","name":"快看🐞","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},{
-      "key": "咪咪",
-      "name": "咪咪",
-      "type": 0,
-      "api": "http://www.caiji25.com/home/cjapi/p0as/mc/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },{
+{"sites":[{"key":"csp_77","name":"TV影视","type":3,"api":"csp_Kunyu77","searchable":0,"quickSearch":0,"filterable":1},{"key":"csp_77","name":"苹果🐞","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},{
+
       "key": "环亚",
       "name": "环亚",
       "type": 0,
@@ -15,15 +8,6 @@
       "quickSearch": 1,
       "filterable": 0
     },{
-      "key": "csp_xpath_xxj",
-      "name": "新香蕉(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/2024xxj.json"
-    },
 {
           "key": "91md",
           "name": "91md",
@@ -39,15 +23,6 @@
           "tag": "qb,tj",
           "categories": []
          }, 
-  {
-      "key": "速播",
-      "name": "速播",
-      "type": 1,
-      "api": "https://api.suboapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
     {
       "key": "美少女",
       "name": "美少女",
