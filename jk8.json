@@ -3,8 +3,9 @@
 "spider":"https://kjsc0310.github.io/tvy/2915.jar;md5;3D691EE14AFB7DD2AC3C7D70AE22C279",
 "sites": [
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"獨播","name":"獨播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/duboku.json"},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "素白","name": "🤖┃素白┃影视","type": 3,"api": "csp_XBPQ","ext": "http://我不是.肥猫.live/json/素白白.json"},
+{"key": "虎虎","name": "🐯┃虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "http://我不是.肥猫.live/json/虎虎.json"},
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_EEEDY","name":"❄3E飘花","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"💫360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
